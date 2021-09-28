@@ -1,0 +1,4 @@
+7c7
+< 	url = https://github.com/Aryangh1379/foobar.git
+---
+> 	url = git@github.com:Aryangh1379/foobar.git
